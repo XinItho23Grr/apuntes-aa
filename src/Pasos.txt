@@ -1,0 +1,13 @@
+
+
+
+1. crear carpeta IonicCrud 
+2. crear carpeta data
+3. crear archivo animalitos.json y almacenar en carpeta data 
+4. en la carpeta data, instalar json: npm install -g json-server
+5. en la carpeta data, iniciar el servidor de json: 
+   json-server --watch animalitos.json --host 0.0.0.0 --port 3300
+
+
+Crear servicio:
+ionic g s servicios/apicrud

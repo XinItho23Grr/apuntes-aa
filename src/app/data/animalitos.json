@@ -1,0 +1,44 @@
+{
+  "animalitos": [
+    {
+      "id": 1,
+      "nombre": "Lulú",
+      "tipoMascota": "Perrito",
+      "raza": "de casa"
+    },
+    {
+      "id": 2,
+      "nombre": "Tobito",
+      "tipoMascota": "Perrito",
+      "raza": "de casa"
+    },
+    {
+      "id": 3,
+      "nombre": "Ninja",
+      "tipoMascota": "Tortuga",
+      "raza": "de agua y tierra"
+    },
+    {
+      "id": 4,
+      "nombre": "León Valiente",
+      "tipoMascota": "Perrito",
+      "raza": "Labrador"
+    }
+  ],
+  "usuarios": [
+    {
+      "id":1,
+      "username":"cachupin",
+      "password":"duoc",
+      "role":"usuario",
+      "isactive":true
+    },
+    {
+      "id":2,
+      "username":"cachupina",
+      "password":"maipu",
+      "role":"usuario",
+      "isactive":true
+    }
+  ]
+}
